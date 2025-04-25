@@ -76,7 +76,3 @@ Each puzzle is a 9x9 grid. Use numbers 1-9 for filled cells and `.` or `0` for e
 . . . 4 1 9 . . 5
 . . . . 8 . . 7 9
 ```
-
-## License
-
-MIT License
